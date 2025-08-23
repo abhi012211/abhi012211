@@ -7,13 +7,12 @@ A passionate Web developer and Mobile developer  from India
 - 📫 How to reach me **abhinavgupta143334@gmail.com**
 
 
-
-![Software Developer](https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ## 💼 Work Experience
 - 👨‍💻 I’m currently working as a **Software Developer** 
 - 🔭 Working on **Web & Mobile Applications** using React, Node.js, Nest.js, Next.js, Flutter, and Dart
 - 🚀 Exploring **Cloud, Microservices, and DevOps tools**
+
+  ![Software Developer](https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ### Connect with me:
