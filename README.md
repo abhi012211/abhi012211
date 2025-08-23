@@ -2,8 +2,18 @@
 
 A passionate Web developer and Mobile developer  from India
 
+- 💻 Currently working as a **Software Developer**  
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, **Flutter**, **Dart**, **Nest**, **React**
 - 📫 How to reach me **abhinavgupta143334@gmail.com**
+
+
+![Software Developer](https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💼 Work Experience
+- 👨‍💻 I’m currently working as a **Software Developer** 
+- 🔭 Working on **Web & Mobile Applications** using React, Node.js, Nest.js, Next.js, Flutter, and Dart
+- 🚀 Exploring **Cloud, Microservices, and DevOps tools**
+
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/gupta_abhi42243)
