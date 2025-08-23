@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Abhinav Gupta
 
-<!--
-**abhi012211/abhi012211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Web developer and Mobile developer  from India
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Next.js**, **TypeScript**, **Flutter**, **Dart**, **Nest**, **React**
+- 📫 How to reach me **abhinavgupta143334@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/gupta_abhi42243)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abhinav-gupta-336677226/)
+
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+<!-- Add more icons as needed -->
+
+---
+
+
