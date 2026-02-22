@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhinav Gupta
 
-A passionate Web developer and Mobile developer  from India
+A passionate About Web developer and Mobile developer 
 
 - 💻 Currently working as a **Software Developer**  
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, **Flutter**, **Dart**, **Nest**, **React**
