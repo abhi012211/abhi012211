@@ -2,13 +2,13 @@
 
 A passionate About Web developer and Mobile developer 
 
-- 💻 Currently working as a **Software Developer**  
+- 💻 I am **Software Developer**  
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, **Flutter**, **Dart**, **Nest**, **React**
 - 📫 How to reach me **abhinavgupta143334@gmail.com**
 
 
 ## 💼 Work Experience
-- 👨‍💻 I’m currently working as a **Software Developer** 
+- 👨‍💻 I’m currently working as a **FullStack Developer** 
 - 🔭 Working on **Web & Mobile Applications** using React, Node.js, Nest.js, Next.js, Flutter, and Dart
 - 🚀 Exploring **Cloud, Microservices, and DevOps tools**
 
